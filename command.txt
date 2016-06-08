@@ -1,0 +1,9 @@
+\list \l    : list all databases
+\dt         : list all tables in the current database
+\connect db_name  :  connect to a db
+CREATE DATABASE name;
+CREATE TABLE table_name(
+	column type,
+	colum2 type
+);
+
