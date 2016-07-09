@@ -7,3 +7,5 @@ CREATE TABLE table_name(
 	colum2 type
 );
 
+\q : exit
+ALTER USER "username" WITH PASSWORD "new_password";
